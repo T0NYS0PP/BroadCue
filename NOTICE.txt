@@ -1,0 +1,29 @@
+BroadCue — NOTICE
+
+■ Riot Games について
+BroadCue isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
+
+（日本語）このツールは Riot Games が承認・提供しているものではなく、Riot Games および Riot Games の資産の制作・運営に公式に関わる人の見解を反映するものではありません。Riot Games と、それに関連するすべての資産は、Riot Games, Inc. の商標または登録商標です。
+
+・チャンピオン、アイテム、プロフィールアイコンの画像は、Riot Games が配っている Data Dragon から、使う人のPCが実行時に取得します。このパッケージには含まれていません。
+・Riot Games のロゴは使っていません。
+
+■ Twitch について
+Twitch は Twitch Interactive, Inc. の商標です。このツールは Twitch が承認・提供しているものではありません。
+
+■ 同梱している第三者のソフトウェア
+・Node.js（runtime/node.exe）
+    Copyright Node.js contributors. ライセンスの全文は licenses/NODE-LICENSE.txt にあります。
+    （--no-runtime で作ったパッケージには含まれません）
+
+■ 実行時に読み込む書体（同梱していません）
+・Archivo             SIL Open Font License 1.1　　Google Fonts から読み込みます
+・Zen Kaku Gothic New  SIL Open Font License 1.1　　Google Fonts から読み込みます
+
+■ 通信について
+このツールは、使う人のPCの中（127.0.0.1）で動きます。外に出る通信は次のものだけです。
+・ddragon.leagueoflegends.com        画像と、チャンピオンの一覧
+・fonts.googleapis.com / fonts.gstatic.com   書体
+・（Riot アカウント連携を使う場合）*.api.riotgames.com
+・（Twitch 拡張機能を使う場合）api.twitch.tv
+使う人の情報を、作者や第三者のサーバーに送ることはありません。
