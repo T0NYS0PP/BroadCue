@@ -16,6 +16,11 @@ Twitch は Twitch Interactive, Inc. の商標です。このツールは Twitch 
     Copyright Node.js contributors. ライセンスの全文は licenses/NODE-LICENSE.txt にあります。
     （--no-runtime で作ったパッケージには含まれません）
 
+■ 全画面の演出の映像と画像（fx/）
+作者が、映像・画像の生成サービスを使って、このツールのために作ったものです。
+Riot Games のゲームの映像・絵・ロゴは含みません（特定のゲームのモンスターやキャラクターを写したものではありません）。
+（--no-fx で作ったパッケージには含まれません）
+
 ■ 実行時に読み込む書体（同梱していません）
 ・Archivo             SIL Open Font License 1.1　　Google Fonts から読み込みます
 ・Zen Kaku Gothic New  SIL Open Font License 1.1　　Google Fonts から読み込みます
